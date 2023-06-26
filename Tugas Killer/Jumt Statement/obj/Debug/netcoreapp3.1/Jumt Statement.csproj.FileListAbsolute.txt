@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\Jumt Statement\obj\Debug\netcoreapp3.1\Jumt Statement.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Jumt Statement\obj\Debug\netcoreapp3.1\Jumt Statement.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Jumt Statement\obj\Debug\netcoreapp3.1\Jumt Statement.AssemblyInfo.cs
+C:\Users\acer\Desktop\Jumt Statement\obj\Debug\netcoreapp3.1\Jumt Statement.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Jumt Statement\bin\Debug\netcoreapp3.1\Jumt Statement.exe
+C:\Users\acer\Desktop\Jumt Statement\bin\Debug\netcoreapp3.1\Jumt Statement.deps.json
+C:\Users\acer\Desktop\Jumt Statement\bin\Debug\netcoreapp3.1\Jumt Statement.runtimeconfig.json
+C:\Users\acer\Desktop\Jumt Statement\bin\Debug\netcoreapp3.1\Jumt Statement.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Jumt Statement\bin\Debug\netcoreapp3.1\Jumt Statement.dll
+C:\Users\acer\Desktop\Jumt Statement\bin\Debug\netcoreapp3.1\Jumt Statement.pdb
+C:\Users\acer\Desktop\Jumt Statement\obj\Debug\netcoreapp3.1\Jumt Statement.dll
+C:\Users\acer\Desktop\Jumt Statement\obj\Debug\netcoreapp3.1\Jumt Statement.pdb
+C:\Users\acer\Desktop\Jumt Statement\obj\Debug\netcoreapp3.1\Jumt Statement.genruntimeconfig.cache

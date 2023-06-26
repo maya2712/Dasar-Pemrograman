@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\M13 Latihan 3\bin\Debug\netcoreapp3.1\M13 Latihan 3.exe
+C:\Users\acer\Desktop\M13 Latihan 3\bin\Debug\netcoreapp3.1\M13 Latihan 3.deps.json
+C:\Users\acer\Desktop\M13 Latihan 3\bin\Debug\netcoreapp3.1\M13 Latihan 3.runtimeconfig.json
+C:\Users\acer\Desktop\M13 Latihan 3\bin\Debug\netcoreapp3.1\M13 Latihan 3.runtimeconfig.dev.json
+C:\Users\acer\Desktop\M13 Latihan 3\bin\Debug\netcoreapp3.1\M13 Latihan 3.dll
+C:\Users\acer\Desktop\M13 Latihan 3\bin\Debug\netcoreapp3.1\M13 Latihan 3.pdb
+C:\Users\acer\Desktop\M13 Latihan 3\obj\Debug\netcoreapp3.1\M13 Latihan 3.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\M13 Latihan 3\obj\Debug\netcoreapp3.1\M13 Latihan 3.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\M13 Latihan 3\obj\Debug\netcoreapp3.1\M13 Latihan 3.AssemblyInfo.cs
+C:\Users\acer\Desktop\M13 Latihan 3\obj\Debug\netcoreapp3.1\M13 Latihan 3.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\M13 Latihan 3\obj\Debug\netcoreapp3.1\M13 Latihan 3.dll
+C:\Users\acer\Desktop\M13 Latihan 3\obj\Debug\netcoreapp3.1\M13 Latihan 3.pdb
+C:\Users\acer\Desktop\M13 Latihan 3\obj\Debug\netcoreapp3.1\M13 Latihan 3.genruntimeconfig.cache

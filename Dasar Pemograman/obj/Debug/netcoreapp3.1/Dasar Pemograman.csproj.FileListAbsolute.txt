@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\Dasar Pemograman\obj\Debug\netcoreapp3.1\Dasar Pemograman.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Dasar Pemograman\obj\Debug\netcoreapp3.1\Dasar Pemograman.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Dasar Pemograman\obj\Debug\netcoreapp3.1\Dasar Pemograman.AssemblyInfo.cs
+C:\Users\acer\Desktop\Dasar Pemograman\obj\Debug\netcoreapp3.1\Dasar Pemograman.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Dasar Pemograman\bin\Debug\netcoreapp3.1\Dasar Pemograman.exe
+C:\Users\acer\Desktop\Dasar Pemograman\bin\Debug\netcoreapp3.1\Dasar Pemograman.deps.json
+C:\Users\acer\Desktop\Dasar Pemograman\bin\Debug\netcoreapp3.1\Dasar Pemograman.runtimeconfig.json
+C:\Users\acer\Desktop\Dasar Pemograman\bin\Debug\netcoreapp3.1\Dasar Pemograman.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Dasar Pemograman\bin\Debug\netcoreapp3.1\Dasar Pemograman.dll
+C:\Users\acer\Desktop\Dasar Pemograman\bin\Debug\netcoreapp3.1\Dasar Pemograman.pdb
+C:\Users\acer\Desktop\Dasar Pemograman\obj\Debug\netcoreapp3.1\Dasar Pemograman.dll
+C:\Users\acer\Desktop\Dasar Pemograman\obj\Debug\netcoreapp3.1\Dasar Pemograman.pdb
+C:\Users\acer\Desktop\Dasar Pemograman\obj\Debug\netcoreapp3.1\Dasar Pemograman.genruntimeconfig.cache

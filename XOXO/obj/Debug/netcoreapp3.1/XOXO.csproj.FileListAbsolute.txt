@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\XOXO\obj\Debug\netcoreapp3.1\XOXO.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\XOXO\obj\Debug\netcoreapp3.1\XOXO.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\XOXO\obj\Debug\netcoreapp3.1\XOXO.AssemblyInfo.cs
+C:\Users\acer\Desktop\XOXO\obj\Debug\netcoreapp3.1\XOXO.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\XOXO\bin\Debug\netcoreapp3.1\XOXO.exe
+C:\Users\acer\Desktop\XOXO\bin\Debug\netcoreapp3.1\XOXO.deps.json
+C:\Users\acer\Desktop\XOXO\bin\Debug\netcoreapp3.1\XOXO.runtimeconfig.json
+C:\Users\acer\Desktop\XOXO\bin\Debug\netcoreapp3.1\XOXO.runtimeconfig.dev.json
+C:\Users\acer\Desktop\XOXO\bin\Debug\netcoreapp3.1\XOXO.dll
+C:\Users\acer\Desktop\XOXO\bin\Debug\netcoreapp3.1\XOXO.pdb
+C:\Users\acer\Desktop\XOXO\obj\Debug\netcoreapp3.1\XOXO.dll
+C:\Users\acer\Desktop\XOXO\obj\Debug\netcoreapp3.1\XOXO.pdb
+C:\Users\acer\Desktop\XOXO\obj\Debug\netcoreapp3.1\XOXO.genruntimeconfig.cache

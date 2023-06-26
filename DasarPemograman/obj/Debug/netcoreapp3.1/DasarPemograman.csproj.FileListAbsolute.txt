@@ -1,0 +1,26 @@
+C:\Users\acer\Desktop\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.AssemblyInfo.cs
+C:\Users\acer\Desktop\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.exe
+C:\Users\acer\Desktop\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.deps.json
+C:\Users\acer\Desktop\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.runtimeconfig.json
+C:\Users\acer\Desktop\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.runtimeconfig.dev.json
+C:\Users\acer\Desktop\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.dll
+C:\Users\acer\Desktop\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.pdb
+C:\Users\acer\Desktop\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.dll
+C:\Users\acer\Desktop\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.pdb
+C:\Users\acer\Desktop\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.genruntimeconfig.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.exe
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.deps.json
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.runtimeconfig.json
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.runtimeconfig.dev.json
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.dll
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\bin\Debug\netcoreapp3.1\DasarPemograman.pdb
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.csprojAssemblyReference.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.AssemblyInfo.cs
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.dll
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.pdb
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\DasarPemograman\obj\Debug\netcoreapp3.1\DasarPemograman.genruntimeconfig.cache

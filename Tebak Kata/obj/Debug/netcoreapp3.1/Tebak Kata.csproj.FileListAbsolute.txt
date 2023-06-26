@@ -1,0 +1,26 @@
+C:\Users\acer\Desktop\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.AssemblyInfo.cs
+C:\Users\acer\Desktop\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.exe
+C:\Users\acer\Desktop\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.deps.json
+C:\Users\acer\Desktop\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.runtimeconfig.json
+C:\Users\acer\Desktop\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.dll
+C:\Users\acer\Desktop\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.pdb
+C:\Users\acer\Desktop\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.dll
+C:\Users\acer\Desktop\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.pdb
+C:\Users\acer\Desktop\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.genruntimeconfig.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.exe
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.deps.json
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.runtimeconfig.json
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.runtimeconfig.dev.json
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.dll
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\bin\Debug\netcoreapp3.1\Tebak Kata.pdb
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.csprojAssemblyReference.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.AssemblyInfo.cs
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.dll
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.pdb
+C:\Users\acer\Documents\MATKUL\Dasar Pemograman\Tebak Kata\obj\Debug\netcoreapp3.1\Tebak Kata.genruntimeconfig.cache

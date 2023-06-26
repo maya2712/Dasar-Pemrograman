@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\Daspro Kelas\bin\Debug\netcoreapp3.1\Daspro Kelas.exe
+C:\Users\acer\Desktop\Daspro Kelas\bin\Debug\netcoreapp3.1\Daspro Kelas.deps.json
+C:\Users\acer\Desktop\Daspro Kelas\bin\Debug\netcoreapp3.1\Daspro Kelas.runtimeconfig.json
+C:\Users\acer\Desktop\Daspro Kelas\bin\Debug\netcoreapp3.1\Daspro Kelas.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Daspro Kelas\bin\Debug\netcoreapp3.1\Daspro Kelas.dll
+C:\Users\acer\Desktop\Daspro Kelas\bin\Debug\netcoreapp3.1\Daspro Kelas.pdb
+C:\Users\acer\Desktop\Daspro Kelas\obj\Debug\netcoreapp3.1\Daspro Kelas.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Daspro Kelas\obj\Debug\netcoreapp3.1\Daspro Kelas.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Daspro Kelas\obj\Debug\netcoreapp3.1\Daspro Kelas.AssemblyInfo.cs
+C:\Users\acer\Desktop\Daspro Kelas\obj\Debug\netcoreapp3.1\Daspro Kelas.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Daspro Kelas\obj\Debug\netcoreapp3.1\Daspro Kelas.dll
+C:\Users\acer\Desktop\Daspro Kelas\obj\Debug\netcoreapp3.1\Daspro Kelas.pdb
+C:\Users\acer\Desktop\Daspro Kelas\obj\Debug\netcoreapp3.1\Daspro Kelas.genruntimeconfig.cache

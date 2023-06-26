@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.AssemblyInfo.cs
+C:\Users\acer\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.exe
+C:\Users\acer\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.deps.json
+C:\Users\acer\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.runtimeconfig.json
+C:\Users\acer\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.runtimeconfig.dev.json
+C:\Users\acer\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.dll
+C:\Users\acer\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.pdb
+C:\Users\acer\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.dll
+C:\Users\acer\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.pdb
+C:\Users\acer\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.genruntimeconfig.cache
